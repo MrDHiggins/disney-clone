@@ -14,7 +14,7 @@ function Header() {
           width={120}
           height={100}
           className="cursor-pointer invert-0 dark:invert"
-        ></Image>
+        />
       </Link>
 
       <div className="flex space-x-2">
